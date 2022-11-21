@@ -1,6 +1,6 @@
 package fightUI_fla
 {
-   import flash.display.MovieClip;
+   import flash.display.*;
    
    public dynamic class Timeline_214 extends MovieClip
    {

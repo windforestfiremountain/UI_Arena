@@ -1,6 +1,6 @@
 package
 {
-   import flash.display.MovieClip;
+   import flash.display.*;
    
    public dynamic class New_UI_FightPetBtn extends MovieClip
    {

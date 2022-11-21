@@ -1,29 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="18.0px" width="659.9px" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="26.0px" width="292.0px" xmlns="http://www.w3.org/2000/svg">
   <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
-    <path d="M603.7 5.85 L656.55 5.85 649.5 18.0 567.9 18.0 567.9 5.85 603.7 5.85" fill="#77e20c" fill-rule="evenodd" stroke="none"/>
-    <path d="M603.7 0.0 L659.9 0.0 656.55 5.85 603.7 5.85 603.7 0.0" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
-    <path d="M603.7 0.0 L603.7 5.85 567.9 5.85 567.9 0.0 603.7 0.0" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
-    <path d="M568.0 5.85 L547.75 5.85 547.75 0.0 568.0 0.0 568.0 5.85" fill="url(#gradient2)" fill-rule="evenodd" stroke="none"/>
-    <path d="M568.0 5.85 L568.0 18.0 0.0 18.0 0.0 5.85 547.75 5.85 568.0 5.85" fill="#77e20c" fill-rule="evenodd" stroke="none"/>
-    <path d="M547.75 5.85 L0.0 5.85 0.0 0.0 547.75 0.0 547.75 5.85" fill="url(#gradient3)" fill-rule="evenodd" stroke="none"/>
+    <pattern height="26" id="PatternID_477_1" overflow="visible" patternTransform="matrix(-1.0, 0.0, 0.0, 1.0, 292.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 292 26" width="292">
+      <image height="26" width="292" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAASQAAAAaCAYAAAAe/iGFAAACT0lEQVR42u3UeYvNYRiH8XkPIhGRiEhEZIlIRPY9k0ZjXxtNNPadZLLvSzNNNPa10WSy70vyknyfutTvBfjz+uNTp9PpnN95nvu+ampqasbH3JgfC7AolmBpLI8VqI2VqItVqI81WBvrsTE2Y0tsQ0NsR2PswM5oit3YE/twIA7icBzFsTiBk3EKzXEaZ+McLsQlXI6rcR034hZaohVtcRt3oh334j4exmM8jWd4ER3xEp3xCl3xGm/jHT7EJ3yOr/geP/ArfuNP5XV5/yefLb7FF5Tv+oj3ld97U3mOrsrzdVaeu4P/UjznPxZP4lE8QDmLu2jnvO5wdm1o5XxbOOubKHdwDVcq93QxzqPc4ZnK3TZX7vxkZRaOV2bkSBxCmZ/92MuMFbuYvSbm8N9MNjKnDSjzuxVlrjdhQ6xD2YHVqK/sSV1lf2ore1V2bFll7xbHQpTdnIc5MRuzYiZmxHRMi6mYEpMxKSZiQoyLsRgTozEqRmJEDMewGIohMRiDYiAGRH/0i77oE72jF3pGD3SPbjBIBskgGSSDZJAMkkEySAbJIBkkg2SQDJJBMkgGySAZJINkkAySQTJIBskgGSSDZJAMkkEySAbJIBkkg2SQDJJBMkgGySAZJINkkAySQTJIBskgGSSDZJAMkkEySAbJIBkkg2SQDJJBMkgGySAZJINkkAySQTJIBskgGSSDZJAMkkEySAbJIBkkg2SQDJJBMkgGySAZJINkkAySQTJIBskgGSSDZJAMkkEySAbJIBkkg2SQDJJBMkj/I0h/ARnsZ79kcMcbAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <path d="M292.0 0.0 L292.0 26.0 0.0 26.0 0.0 0.0 292.0 0.0" style="fill:url(#PatternID_477_1)"/>
   </g>
-  <defs>
-    <linearGradient gradientTransform="matrix(0.0, -0.0026, 0.1514, 0.0, 535.9, 3.25)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
-      <stop offset="0.0" stop-color="#77e20c"/>
-      <stop offset="1.0" stop-color="#c2fe9a"/>
-    </linearGradient>
-    <linearGradient gradientTransform="matrix(0.0, -0.0026, 0.3162, 0.0, 462.1, 3.25)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
-      <stop offset="0.0" stop-color="#77e20c"/>
-      <stop offset="1.0" stop-color="#c2fe9a"/>
-    </linearGradient>
-    <linearGradient gradientTransform="matrix(0.0, -0.0026, 1.009, 0.0, 230.4, 3.25)" gradientUnits="userSpaceOnUse" id="gradient2" spreadMethod="pad" x1="-819.2" x2="819.2">
-      <stop offset="0.0" stop-color="#77e20c"/>
-      <stop offset="1.0" stop-color="#c2fe9a"/>
-    </linearGradient>
-    <linearGradient gradientTransform="matrix(0.0, -0.0026, 0.483, 0.0, 395.85, 3.25)" gradientUnits="userSpaceOnUse" id="gradient3" spreadMethod="pad" x1="-819.2" x2="819.2">
-      <stop offset="0.0" stop-color="#77e20c"/>
-      <stop offset="1.0" stop-color="#c2fe9a"/>
-    </linearGradient>
-  </defs>
 </svg>

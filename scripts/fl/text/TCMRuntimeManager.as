@@ -26,9 +26,6 @@ package fl.text
    import flashx.textLayout.formats.Direction;
    import flashx.textLayout.formats.ITextLayoutFormat;
    import flashx.textLayout.formats.TextLayoutFormat;
-   import flashx.textLayout.tlf_internal;
-   
-   use namespace tlf_internal;
    
    public class TCMRuntimeManager extends TimelineManager
    {
@@ -113,7 +110,7 @@ package fl.text
          return loaded;
       }
       
-      tlf_internal static function getGlobalConfig() : Object
+      static function getGlobalConfig() : Object
       {
          if(globalConfig != null)
          {

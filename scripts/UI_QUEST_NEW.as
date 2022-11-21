@@ -1,7 +1,6 @@
 package
 {
-   import flash.display.MovieClip;
-   import flash.display.SimpleButton;
+   import flash.display.*;
    
    public dynamic class UI_QUEST_NEW extends MovieClip
    {

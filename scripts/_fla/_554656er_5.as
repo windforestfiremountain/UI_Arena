@@ -1,7 +1,7 @@
 package _fla
 {
-   import flash.display.MovieClip;
-   import flash.events.Event;
+   import flash.display.*;
+   import flash.events.*;
    
    public dynamic class _554656er_5 extends MovieClip
    {
